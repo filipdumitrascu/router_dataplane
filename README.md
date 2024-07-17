@@ -3,7 +3,7 @@ The project aims to implement the dataplane of a router. Thus, it is realized
 correctly and efficiently sending frames from one host to another that have no
 direct connection between them (point to point). The router forwards the
 packets to the most suitable route for them to reach their destination.
-##### Contributor: Dumitrascu Filip-Teodor (323CA)
+##### Contributor: Dumitrascu Filip-Teodor
 
 ## Content
 0. [Router's structures](#routers-structures)
